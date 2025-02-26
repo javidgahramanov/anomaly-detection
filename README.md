@@ -16,3 +16,17 @@ Unsupervised Learning: Uses Isolation Forest to efficiently and scalably detect 
 Bimodal Distribution Analysis: KDE plots indicate bimodal distributions in the selected features, highlighting distinct usage patterns.
 Interactive Visualizations: Provides pair plots and histograms to clearly demonstrate the isolation of outlier data points.
 Practical Applications: Supports smart home monitoring systems, predictive maintenance, and energy optimization.
+
+
+
+![image](https://github.com/user-attachments/assets/70bd5fa6-771e-472f-801e-bfd6488d117b)
+
+![image](https://github.com/user-attachments/assets/344e9ca4-7a0d-4702-ac0f-71bee6da8eb9)
+
+
+![image](https://github.com/user-attachments/assets/b551483b-90c3-496d-84d2-3f39d223164e)
+
+KDE method
+
+![image](https://github.com/user-attachments/assets/1d96972f-9f9d-4477-b8df-5ee3cab9cae3)
+Pairt plot for anmoly detection using isolation forest
